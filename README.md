@@ -1,6 +1,6 @@
 # From Proto-Agent to Person
 
-**Title**: From Proto-Agent to Person — A Bootstrapping Architecture for the Development of Human Personhood
+**Title**: From Proto-Agent to Person — A Bootstrapping Architecture for the Development of Personhood
 **Date**: June 2026
 **Author**: PIATRA . INSTITUTE
 

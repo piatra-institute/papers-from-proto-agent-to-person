@@ -1,7 +1,7 @@
 ---
 title: |
   From Proto-Agent to Person:\
-  A Bootstrapping Architecture for the Development of Human Personhood
+  A Bootstrapping Architecture for the Development of Personhood
 author: PIATRA . INSTITUTE
 date: June 2026
 ---
