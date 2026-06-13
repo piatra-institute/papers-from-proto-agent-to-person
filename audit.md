@@ -3,6 +3,18 @@
 Dated log of editorial passes and verification runs. Newest first.
 See docs/writing-pipeline.md §7 and docs/refresh-pipeline.md.
 
+## 2026-06-13 — voice reform
+
+Editorial pass to remove AI-writing tells per tooling/docs/voice.md.
+
+Syntax: rewrote the negate-pivot and inline-contrastive constructions flagged by the gate as positive declaratives (sensitivity meta-analysis §4; "general-purpose hardware" §5; "contingent social interaction" §6; "accessibility not modality" §7; "two algorithms" §13; pseudocode framing §14; "the transfer not the metaphor" §14; "synthesis not a discovery" §14; the double-negate in the closing). Used "rather than" for ", not".
+
+Pet-vocabulary: thinned "load-bearing" (feral-child sentence §12 rewritten), "earns its keep" (§14 opener), "carry the argument" (§12 -> "converge"), "the whole story" (§10). At most one genuine use of each metaphor retained.
+
+Structure: the gate flagged the formulaic skeleton (numbered sections + generic "Conclusion" + limits bolt-on). Retitled §15 "Conclusion" -> "The culture-completable organism" and §14 "Predictions and limits" -> "What the architecture predicts and declines to claim", naming the substance of each. The 15-section numbered structure is otherwise substantive and was kept; limits are developed inside §14 rather than as a separate appendix, so no fold/renumber was needed.
+
+Verification: voice 0 errors / 0 warns (structure advisory cleared); refs 60 cited / 60 bib, 0 missing, 0 unused (unchanged from baseline); build succeeds, 0 missing-character warnings; claims_target none; check => PASS. Density advisory: carries/carry 8->7, exactly 2, precisely 2 (genuine uses, all outside abstract/opening/closing); tricolon proxy 117 (substantive 5-part enumerations, not reflexive triads). No numbers, equations, or citations altered.
+
 ## 2026-06-07 — research-pipeline formalization + fact-check + gate to built
 
 Scope: bring the paper to PIATRA research-pipeline parity. Retro-document the
