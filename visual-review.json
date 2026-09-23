@@ -1,6 +1,6 @@
 {
-  "pdf_sha256": "c748055b346ec2aa98ab2ead744fae2fd739d249e890b8dd2b64eca14250f5bd",
-  "page_count": 24,
+  "pdf_sha256": "546a602db7858c2bcfaf75c14caed0f91b8d395c09f170f53d665394ee3d298d",
+  "page_count": 25,
   "pages_inspected": [
     1,
     2,
@@ -25,8 +25,9 @@
     21,
     22,
     23,
-    24
+    24,
+    25
   ],
   "all_pages_inspected": true,
-  "notes": "All 24 pages inspected after the prose revision; title block, three tables, pseudocode block and references render cleanly with no clipping or missing glyphs. Metadata-only rebuild: the web blurb in metadata.yaml, a hashed build input, changed, so the PDF was re-rendered (2ead3aec2023 to c748055b346e); the rendered text is byte-for-byte identical and no page was re-inspected."
+  "notes": "All 25 pages inspected after the migration; citations, tables, the pseudocode block and the citeproc reference list render correctly, with no unresolved citations. Metadata-only rebuild: the web blurb in metadata.yaml, a hashed build input, changed, so the PDF was re-rendered (b9e4d1f7d3e2 to 546a602db785); the rendered text is byte-for-byte identical and no page was re-inspected."
 }

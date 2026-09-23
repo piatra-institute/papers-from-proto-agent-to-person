@@ -1,10 +1,10 @@
 {
-  "manuscript_sha256": "25c53bd657408d382ac1a848b00634d06f4a48dfa13dcecda81e799ea1242b25",
+  "manuscript_sha256": "e1d44397c84cec61de8590c300b8deed76f8bdda74b8cb55ec822947e52be406",
   "full_read": true,
   "argument_review": true,
   "structure_review": true,
   "voice_review": true,
   "source_review": true,
   "final_read": true,
-  "notes": "Full prose revision to a declarative register: removed self-reference, rather-than contrasts, negate-pivots, anaphora and aphoristic closers; descriptive section headings; abstract cut from ~450 to 259 words; all citations, tables, pseudocode and references preserved; one factual correction (Carpenter et al. age range)."
+  "notes": "Structured-evidence migration: inline bibliography converted to references.yaml (CSL) with Pandoc [@id] citations; claims.yaml ledger added; prose unchanged apart from citation syntax."
 }

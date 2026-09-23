@@ -1,0 +1,1160 @@
+# CSL references with stable IDs; cite with Pandoc [@id] syntax.
+# Migrated from the legacy inline bibliography. Entries with a DOI were resolved through doi.org
+# content negotiation (CSL-JSON) and checked for year and title; others were matched in Crossref
+# or entered by hand. Provenance per entry is in sources.md.
+references:
+- type: book
+  title: 'Patterns of Attachment: A Psychological Study of the Strange Situation'
+  author:
+  - family: Ainsworth
+    given: Mary D. Salter
+  - family: Blehar
+    given: Mary C.
+  - family: Waters
+    given: Everett
+  - family: Wall
+    given: Sally
+  publisher: Lawrence Erlbaum
+  publisher-place: Hillsdale, NJ
+  issued:
+    date-parts:
+    - - 1978
+  id: ainsworth1978
+- id: atzil2018
+  type: article-journal
+  title: Growing a social brain
+  author:
+  - given: Shir
+    family: Atzil
+  - given: Wei
+    family: Gao
+  - given: Isaac
+    family: Fradkin
+  - given: Lisa Feldman
+    family: Barrett
+  container-title: Nature Human Behaviour
+  volume: '2'
+  issue: '9'
+  page: 624-636
+  DOI: 10.1038/s41562-018-0384-6
+  issued:
+    date-parts:
+    - - 2018
+- id: bos2009
+  type: article-journal
+  title: Effects of early psychosocial deprivation on the development of memory and executive function
+  author:
+  - family: Bos
+    given: Karen J.
+  - family: Fox
+    given: Nathan
+  - family: Zeanah
+    given: Charles H.
+  - family: Nelson
+    given: Charles A.
+  container-title: Frontiers in Behavioral Neuroscience
+  volume: '3'
+  DOI: 10.3389/neuro.08.016.2009
+  issued:
+    date-parts:
+    - - 2009
+  page: '16'
+- type: book
+  title: 'Attachment and Loss, Vol. 1: Attachment'
+  author:
+  - family: Bowlby
+    given: John
+  publisher: Basic Books
+  publisher-place: New York
+  issued:
+    date-parts:
+    - - 1969
+  id: bowlby1969
+- type: book
+  title: Culture and the Evolutionary Process
+  author:
+  - family: Boyd
+    given: Robert
+  - family: Richerson
+    given: Peter J.
+  publisher: University of Chicago Press
+  publisher-place: Chicago
+  issued:
+    date-parts:
+    - - 1985
+  id: boyd1985
+- type: book
+  title: 'Feral Children and Clever Animals: Reflections on Human Nature'
+  author:
+  - family: Candland
+    given: Douglas Keith
+  publisher: Oxford University Press
+  publisher-place: New York
+  issued:
+    date-parts:
+    - - 1993
+  id: candland1993
+- id: carpenter1998
+  type: article-journal
+  title: Social Cognition, Joint Attention, and Communicative Competence from 9 to 15 Months of Age
+  author:
+  - given: Malinda
+    family: Carpenter
+  - given: Katherine
+    family: Nagell
+  - given: Michael
+    family: Tomasello
+  container-title: Monographs of the Society for Research in Child Development
+  volume: '63'
+  issue: '4'
+  page: i-174
+  DOI: 10.2307/1166214
+  issued:
+    date-parts:
+    - - 1998
+- id: cittern2018
+  type: article-journal
+  title: Intrinsic and extrinsic motivators of attachment under active inference
+  author:
+  - given: David
+    family: Cittern
+  - given: Tobias
+    family: Nolte
+  - given: Karl
+    family: Friston
+  - given: Abbas
+    family: Edalat
+  editor:
+  - given: Laurence T.
+    family: Maloney
+  container-title: PLOS ONE
+  volume: '13'
+  issue: '4'
+  page: e0193955
+  DOI: 10.1371/journal.pone.0193955
+  issued:
+    date-parts:
+    - - 2018
+- id: clark2013
+  type: article-journal
+  title: Whatever next? Predictive brains, situated agents, and the future of cognitive science
+  author:
+  - given: Andy
+    family: Clark
+  container-title: Behavioral and Brain Sciences
+  volume: '36'
+  issue: '3'
+  page: 181-204
+  DOI: 10.1017/s0140525x12000477
+  issued:
+    date-parts:
+    - - 2013
+- id: cooper1990
+  type: article-journal
+  title: Preference for Infant-Directed Speech in the First Month after Birth
+  author:
+  - given: Robin Panneton
+    family: Cooper
+  - given: Richard N.
+    family: Aslin
+  container-title: Child Development
+  volume: '61'
+  issue: '5'
+  page: 1584-1595
+  DOI: 10.2307/1130766
+  issued:
+    date-parts:
+    - - 1990
+- id: csibra2009
+  type: article-journal
+  title: Natural pedagogy
+  author:
+  - given: Gergely
+    family: Csibra
+  - given: György
+    family: Gergely
+  container-title: Trends in Cognitive Sciences
+  volume: '13'
+  issue: '4'
+  page: 148-153
+  DOI: 10.1016/j.tics.2009.01.005
+  issued:
+    date-parts:
+    - - 2009
+- type: book
+  title: 'Genie: A Psycholinguistic Study of a Modern-Day "Wild Child"'
+  author:
+  - family: Curtiss
+    given: Susan
+  publisher: Academic Press
+  publisher-place: New York
+  issued:
+    date-parts:
+    - - 1977
+  id: curtiss1977
+- id: davis2021
+  type: article-journal
+  title: Does Neonatal Imitation Exist? Insights From a Meta-Analysis of 336 Effect Sizes
+  author:
+  - given: Jacqueline
+    family: Davis
+  - given: Jonathan
+    family: Redshaw
+  - given: Thomas
+    family: Suddendorf
+  - given: Mark
+    family: Nielsen
+  - given: Siobhan
+    family: Kennedy-Costantini
+  - given: Janine
+    family: Oostenbroek
+  - given: Virginia
+    family: Slaughter
+  container-title: Perspectives on Psychological Science
+  volume: '16'
+  issue: '6'
+  page: 1373-1397
+  DOI: 10.1177/1745691620959834
+  issued:
+    date-parts:
+    - - 2021
+- id: wolff1997
+  type: article-journal
+  title: 'Sensitivity and Attachment: A Meta-Analysis on Parental Antecedents of Infant Attachment'
+  author:
+  - given: Marianne S.
+    family: De Wolff
+  - given: Marinus H.
+    family: IJzendoorn
+    non-dropping-particle: van
+  container-title: Child Development
+  volume: '68'
+  issue: '4'
+  page: 571-591
+  DOI: 10.1111/j.1467-8624.1997.tb04218.x
+  issued:
+    date-parts:
+    - - 1997
+- type: book
+  title: Affect Regulation, Mentalization, and the Development of the Self
+  author:
+  - family: Fonagy
+    given: Peter
+  - family: Gergely
+    given: György
+  - family: Jurist
+    given: Elliot L.
+  - family: Target
+    given: Mary
+  publisher: Other Press
+  publisher-place: New York
+  issued:
+    date-parts:
+    - - 2002
+  id: fonagy2002
+- type: article-journal
+  title: 'The Free-Energy Principle: A Unified Brain Theory?'
+  author:
+  - family: Friston
+    given: Karl
+  container-title: Nature Reviews Neuroscience
+  volume: '11'
+  issue: '2'
+  page: 127-138
+  DOI: 10.1038/nrn2787
+  issued:
+    date-parts:
+    - - 2010
+  id: friston2010
+- id: gallagher2000
+  type: article-journal
+  title: 'Philosophical conceptions of the self: implications for cognitive science'
+  author:
+  - given: Shaun
+    family: Gallagher
+  container-title: Trends in Cognitive Sciences
+  volume: '4'
+  issue: '1'
+  page: 14-21
+  DOI: 10.1016/s1364-6613(99)01417-5
+  issued:
+    date-parts:
+    - - 2000
+- type: article-journal
+  title: 'The Social Biofeedback Theory of Parental Affect-Mirroring: The Development of Emotional Self-Awareness
+    and Self-Control in Infancy'
+  author:
+  - family: Gergely
+    given: György
+  - family: Watson
+    given: John S.
+  container-title: International Journal of Psycho-Analysis
+  volume: '77'
+  issue: '6'
+  page: 1181-1212
+  PMID: '9119582'
+  issued:
+    date-parts:
+    - - 1996
+  id: gergely1996
+- id: greenough1987
+  type: article-journal
+  title: Experience and Brain Development
+  author:
+  - given: William T.
+    family: Greenough
+  - given: James E.
+    family: Black
+  - given: Christopher S.
+    family: Wallace
+  container-title: Child Development
+  volume: '58'
+  issue: '3'
+  page: 539-559
+  DOI: 10.2307/1130197
+  issued:
+    date-parts:
+    - - 1987
+- id: griffiths1994
+  type: article-journal
+  title: Developmental Systems and Evolutionary Explanation
+  author:
+  - given: P. E.
+    family: Griffiths
+  - given: R. D.
+    family: Gray
+  editor:
+  - given: John
+    family: Smylie
+  container-title: Journal of Philosophy
+  volume: '91'
+  issue: '6'
+  page: 277-304
+  DOI: 10.2307/2940982
+  issued:
+    date-parts:
+    - - 1994
+- id: hall2017
+  type: article-journal
+  title: 'What You Don’t Know Can Hurt You: The Risk of Language Deprivation by Impairing Sign Language
+    Development in Deaf Children'
+  author:
+  - given: Wyatte C.
+    family: Hall
+  container-title: Maternal and Child Health Journal
+  volume: '21'
+  issue: '5'
+  page: 961-965
+  DOI: 10.1007/s10995-017-2287-y
+  issued:
+    date-parts:
+    - - 2017
+- type: book
+  title: 'The Secret of Our Success: How Culture Is Driving Human Evolution, Domesticating Our Species,
+    and Making Us Smarter'
+  author:
+  - family: Henrich
+    given: Joseph
+  publisher: Princeton University Press
+  publisher-place: Princeton
+  DOI: 10.1515/9781400873296
+  issued:
+    date-parts:
+    - - 2016
+  id: henrich2016
+- type: article-journal
+  title: Causal Knowledge and Imitation/Emulation Switching in Chimpanzees (<span class="nocase"><i>Pan troglodytes</i></span>) and
+    Children (<span class="nocase"><i>Homo sapiens</i></span>)
+  author:
+  - family: Horner
+    given: Victoria
+  - family: Whiten
+    given: Andrew
+  container-title: Animal Cognition
+  volume: '8'
+  issue: '3'
+  page: 164-181
+  DOI: 10.1007/s10071-004-0239-6
+  issued:
+    date-parts:
+    - - 2005
+  id: horner2005
+- id: johnson1991
+  type: article-journal
+  title: Newborns' preferential tracking of face-like stimuli and its subsequent decline
+  author:
+  - given: Mark H.
+    family: Johnson
+  - given: Suzanne
+    family: Dziurawiec
+  - given: Hadyn
+    family: Ellis
+  - given: John
+    family: Morton
+  container-title: Cognition
+  volume: '40'
+  issue: 1-2
+  page: 1-19
+  DOI: 10.1016/0010-0277(91)90045-6
+  issued:
+    date-parts:
+    - - 1991
+- type: book
+  title: 'Beyond Modularity: A Developmental Perspective on Cognitive Science'
+  author:
+  - family: Karmiloff-Smith
+    given: Annette
+  publisher: MIT Press
+  publisher-place: Cambridge, MA
+  DOI: 10.7551/mitpress/1579.001.0001
+  issued:
+    date-parts:
+    - - 1992
+  id: karmiloffsmith1992
+- id: koster2020
+  type: article-journal
+  title: 'Making Sense of the World: Infant Learning From a Predictive Processing Perspective'
+  author:
+  - given: Moritz
+    family: Köster
+  - given: Ezgi
+    family: Kayhan
+  - given: Miriam
+    family: Langeloh
+  - given: Stefanie
+    family: Hoehl
+  container-title: Perspectives on Psychological Science
+  volume: '15'
+  issue: '3'
+  page: 562-571
+  DOI: 10.1177/1745691619895071
+  issued:
+    date-parts:
+    - - 2020
+- id: kuhl2003
+  type: article-journal
+  title: 'Foreign-language experience in infancy: Effects of short-term exposure and social interaction
+    on phonetic learning'
+  author:
+  - given: Patricia K.
+    family: Kuhl
+  - given: Feng-Ming
+    family: Tsao
+  - given: Huei-Mei
+    family: Liu
+  container-title: Proceedings of the National Academy of Sciences
+  volume: '100'
+  issue: '15'
+  page: 9096-9101
+  DOI: 10.1073/pnas.1532872100
+  issued:
+    date-parts:
+    - - 2003
+- id: lewis1979
+  type: book
+  title: Social Cognition and the Acquisition of Self
+  author:
+  - given: Michael
+    family: Lewis
+  - given: Jeanne
+    family: Brooks-Gunn
+  publisher: Plenum Press
+  DOI: 10.1007/978-1-4684-3566-5
+  issued:
+    date-parts:
+    - - 1979
+  publisher-place: New York
+- id: lewis1989
+  type: article-journal
+  title: Self Development and Self-Conscious Emotions
+  author:
+  - given: Michael
+    family: Lewis
+  - given: Margaret Wolan
+    family: Sullivan
+  - given: Catherine
+    family: Stanger
+  - given: Maya
+    family: Weiss
+  container-title: Child Development
+  volume: '60'
+  issue: '1'
+  page: 146-156
+  DOI: 10.2307/1131080
+  issued:
+    date-parts:
+    - - 1989
+- id: liszkowski2004
+  type: article-journal
+  title: Twelve‐month‐olds point to share attention and interest
+  author:
+  - given: Ulf
+    family: Liszkowski
+  - given: Malinda
+    family: Carpenter
+  - given: Anne
+    family: Henning
+  - given: Tricia
+    family: Striano
+  - given: Michael
+    family: Tomasello
+  container-title: Developmental Science
+  volume: '7'
+  issue: '3'
+  page: 297-307
+  DOI: 10.1111/j.1467-7687.2004.00349.x
+  issued:
+    date-parts:
+    - - 2004
+- id: lyons2007
+  type: article-journal
+  title: The hidden structure of overimitation
+  author:
+  - given: Derek E.
+    family: Lyons
+  - given: Andrew G.
+    family: Young
+  - given: Frank C.
+    family: Keil
+  container-title: Proceedings of the National Academy of Sciences
+  volume: '104'
+  issue: '50'
+  page: 19751-19756
+  DOI: 10.1073/pnas.0704452104
+  issued:
+    date-parts:
+    - - 2007
+- id: mareschal2007
+  type: book
+  title: 'Neuroconstructivism, Vol. 1: How the Brain Constructs Cognition'
+  author:
+  - given: Denis
+    family: Mareschal
+  - given: Mark H.
+    family: Johnson
+  - given: Sylvain
+    family: Sirois
+  - given: Michael
+    family: Spratling
+  - given: Michael S. C.
+    family: Thomas
+  - given: Gert
+    family: Westermann
+  publisher: Oxford University Press
+  DOI: 10.1093/acprof:oso/9780198529910.001.0001
+  issued:
+    date-parts:
+    - - 2007
+- type: chapter
+  title: 'A Category of the Human Mind: The Notion of Person; the Notion of Self'
+  author:
+  - family: Mauss
+    given: Marcel
+  translator:
+  - family: Halls
+    given: W. D.
+  editor:
+  - family: Carrithers
+    given: Michael
+  - family: Collins
+    given: Steven
+  - family: Lukes
+    given: Steven
+  container-title: 'The Category of the Person: Anthropology, Philosophy, History'
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  page: 1-25
+  original-date:
+    date-parts:
+    - - 1938
+  issued:
+    date-parts:
+    - - 1985
+  id: mauss1985
+- id: mayberry2003
+  type: article-journal
+  title: 'Age constraints on first versus second language acquisition: Evidence for linguistic plasticity
+    and epigenesis'
+  author:
+  - given: Rachel I.
+    family: Mayberry
+  - given: Elizabeth
+    family: Lock
+  container-title: Brain and Language
+  volume: '87'
+  issue: '3'
+  page: 369-384
+  DOI: 10.1016/s0093-934x(03)00137-8
+  issued:
+    date-parts:
+    - - 2003
+- id: mehler1988
+  type: article-journal
+  title: A precursor of language acquisition in young infants
+  author:
+  - given: Jacques
+    family: Mehler
+  - given: Peter
+    family: Jusczyk
+  - given: Ghislaine
+    family: Lambertz
+  - given: Nilofar
+    family: Halsted
+  - given: Josiane
+    family: Bertoncini
+  - given: Claudine
+    family: Amiel-Tison
+  container-title: Cognition
+  volume: '29'
+  issue: '2'
+  page: 143-178
+  DOI: 10.1016/0010-0277(88)90035-2
+  issued:
+    date-parts:
+    - - 1988
+- type: article-journal
+  title: 'Re-examination of Oostenbroek <span class="nocase">et al.</span> (2016): Evidence for Neonatal
+    Imitation of Tongue Protrusion'
+  author:
+  - family: Meltzoff
+    given: Andrew N.
+  - family: Murray
+    given: Lynne
+  - family: Simpson
+    given: Elizabeth
+  - family: Heimann
+    given: Mikael
+  - family: Nagy
+    given: Emese
+  - family: Nadel
+    given: Jacqueline
+  - family: Pedersen
+    given: Eric J.
+  - family: Brooks
+    given: Rechele
+  - family: Messinger
+    given: Daniel S.
+  - family: De Pascalis
+    given: Leonardo
+  - family: Subiaul
+    given: Francys
+  - family: Paukner
+    given: Annika
+  - family: Ferrari
+    given: Pier F.
+  container-title: Developmental Science
+  volume: '21'
+  issue: '4'
+  page: e12609
+  DOI: 10.1111/desc.12609
+  issued:
+    date-parts:
+    - - 2018
+  id: meltzoff2018
+- id: nelson2007
+  type: article-journal
+  title: 'Cognitive Recovery in Socially Deprived Young Children: The Bucharest Early Intervention Project'
+  author:
+  - given: Charles A.
+    family: Nelson
+  - given: Charles H.
+    family: Zeanah
+  - given: Nathan A.
+    family: Fox
+  - given: Peter J.
+    family: Marshall
+  - given: Anna T.
+    family: Smyke
+  - given: Donald
+    family: Guthrie
+  container-title: Science
+  volume: '318'
+  issue: '5858'
+  page: 1937-1940
+  DOI: 10.1126/science.1143921
+  issued:
+    date-parts:
+    - - 2007
+- type: book
+  title: 'Language in Cognitive Development: The Emergence of the Mediated Mind'
+  author:
+  - family: Nelson
+    given: Katherine
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  DOI: 10.1017/CBO9781139174619
+  issued:
+    date-parts:
+    - - 1996
+  id: nelson1996
+- id: nelson2004
+  type: article-journal
+  title: 'The Emergence of Autobiographical Memory: A Social Cultural Developmental Theory.'
+  author:
+  - given: Katherine
+    family: Nelson
+  - given: Robyn
+    family: Fivush
+  container-title: Psychological Review
+  volume: '111'
+  issue: '2'
+  page: 486-511
+  DOI: 10.1037/0033-295x.111.2.486
+  issued:
+    date-parts:
+    - - 2004
+- type: article-journal
+  title: Do 15-Month-Old Infants Understand False Beliefs?
+  author:
+  - family: Onishi
+    given: Kristine H.
+  - family: Baillargeon
+    given: Renée
+  container-title: Science
+  volume: '308'
+  issue: '5719'
+  page: 255-258
+  DOI: 10.1126/science.1107621
+  issued:
+    date-parts:
+    - - 2005
+  id: onishi2005
+- type: book
+  title: 'The Ontogeny of Information: Developmental Systems and Evolution'
+  author:
+  - family: Oyama
+    given: Susan
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  issued:
+    date-parts:
+    - - 1985
+  id: oyama1985
+- id: oostenbroek2016
+  type: article-journal
+  title: Comprehensive Longitudinal Study Challenges the Existence of Neonatal Imitation in Humans
+  author:
+  - given: Janine
+    family: Oostenbroek
+  - given: Thomas
+    family: Suddendorf
+  - given: Mark
+    family: Nielsen
+  - given: Jonathan
+    family: Redshaw
+  - given: Siobhan
+    family: Kennedy-Costantini
+  - given: Jacqueline
+    family: Davis
+  - given: Sally
+    family: Clark
+  - given: Virginia
+    family: Slaughter
+  container-title: Current Biology
+  volume: '26'
+  issue: '10'
+  page: 1334-1338
+  DOI: 10.1016/j.cub.2016.03.047
+  issued:
+    date-parts:
+    - - 2016
+- id: rakoczy2008
+  type: article-journal
+  title: 'The sources of normativity: Young children''s awareness of the normative structure of games.'
+  author:
+  - given: Hannes
+    family: Rakoczy
+  - given: Felix
+    family: Warneken
+  - given: Michael
+    family: Tomasello
+  container-title: Developmental Psychology
+  volume: '44'
+  issue: '3'
+  page: 875-881
+  DOI: 10.1037/0012-1649.44.3.875
+  issued:
+    date-parts:
+    - - 2008
+- id: reese1993
+  type: article-journal
+  title: 'Mother-child conversations about the past: Relationships of style and memory over time'
+  author:
+  - given: Elaine
+    family: Reese
+  - given: Catherine A.
+    family: Haden
+  - given: Robyn
+    family: Fivush
+  container-title: Cognitive Development
+  volume: '8'
+  issue: '4'
+  page: 403-430
+  DOI: 10.1016/s0885-2014(05)80002-4
+  issued:
+    date-parts:
+    - - 1993
+- id: ritchie2018
+  type: article-journal
+  title: How Much Does Education Improve Intelligence? A Meta-Analysis
+  author:
+  - given: Stuart J.
+    family: Ritchie
+  - given: Elliot M.
+    family: Tucker-Drob
+  container-title: Psychological Science
+  volume: '29'
+  issue: '8'
+  page: 1358-1369
+  DOI: 10.1177/0956797618774253
+  issued:
+    date-parts:
+    - - 2018
+- id: rochat2003
+  type: article-journal
+  title: Five levels of self-awareness as they unfold early in life
+  author:
+  - given: Philippe
+    family: Rochat
+  container-title: Consciousness and Cognition
+  volume: '12'
+  issue: '4'
+  page: 717-731
+  DOI: 10.1016/s1053-8100(03)00081-3
+  issued:
+    date-parts:
+    - - 2003
+- id: saffran1996
+  type: article-journal
+  title: Statistical Learning by 8-Month-Old Infants
+  author:
+  - given: Jenny R.
+    family: Saffran
+  - given: Richard N.
+    family: Aslin
+  - given: Elissa L.
+    family: Newport
+  container-title: Science
+  volume: '274'
+  issue: '5294'
+  page: 1926-1928
+  DOI: 10.1126/science.274.5294.1926
+  issued:
+    date-parts:
+    - - 1996
+- id: simion2008
+  type: article-journal
+  title: A predisposition for biological motion in the newborn baby
+  author:
+  - given: Francesca
+    family: Simion
+  - given: Lucia
+    family: Regolin
+  - given: Hermann
+    family: Bulf
+  container-title: Proceedings of the National Academy of Sciences
+  volume: '105'
+  issue: '2'
+  page: 809-813
+  DOI: 10.1073/pnas.0707021105
+  issued:
+    date-parts:
+    - - 2008
+- id: sonugabarke2017
+  type: article-journal
+  title: 'Child-to-adult neurodevelopmental and mental health trajectories after early life deprivation:
+    the young adult follow-up of the longitudinal English and Romanian Adoptees study'
+  author:
+  - given: Edmund J. S.
+    family: Sonuga-Barke
+  - given: Mark
+    family: Kennedy
+  - given: Robert
+    family: Kumsta
+  - given: Nicky
+    family: Knights
+  - given: Dennis
+    family: Golm
+  - given: Michael
+    family: Rutter
+  - given: Barbara
+    family: Maughan
+  - given: Wolff
+    family: Schlotz
+  - given: Jana
+    family: Kreppner
+  container-title: The Lancet
+  volume: '389'
+  issue: '10078'
+  page: 1539-1548
+  DOI: 10.1016/s0140-6736(17)30045-4
+  issued:
+    date-parts:
+    - - 2017
+- id: taipale2016
+  type: article-journal
+  title: 'Self-regulation and Beyond: Affect Regulation and the Infant–Caregiver Dyad'
+  author:
+  - given: Joona
+    family: Taipale
+  container-title: Frontiers in Psychology
+  volume: '7'
+  DOI: 10.3389/fpsyg.2016.00889
+  issued:
+    date-parts:
+    - - 2016
+  page: '889'
+- id: tennie2009
+  type: article-journal
+  title: 'Ratcheting up the ratchet: on the evolution of cumulative culture'
+  author:
+  - given: Claudio
+    family: Tennie
+  - given: Josep
+    family: Call
+  - given: Michael
+    family: Tomasello
+  container-title: 'Philosophical Transactions of the Royal Society B: Biological Sciences'
+  volume: '364'
+  issue: '1528'
+  page: 2405-2415
+  DOI: 10.1098/rstb.2009.0052
+  issued:
+    date-parts:
+    - - 2009
+- type: chapter
+  title: 'The Development of the Person: Social Understanding, Relationships, Conscience, Self'
+  author:
+  - family: Thompson
+    given: Ross A.
+  editor:
+  - family: Damon
+    given: William
+  - family: Lerner
+    given: Richard M.
+  container-title: 'Handbook of Child Psychology, Vol. 3: Social, Emotional, and Personality Development'
+  edition: '6'
+  publisher: Wiley
+  publisher-place: Hoboken, NJ
+  page: 24-98
+  DOI: 10.1002/9780470147658.chpsy0302
+  issued:
+    date-parts:
+    - - 2006
+  id: thompson2006
+- type: book
+  title: The Cultural Origins of Human Cognition
+  author:
+  - family: Tomasello
+    given: Michael
+  publisher: Harvard University Press
+  publisher-place: Cambridge, MA
+  issued:
+    date-parts:
+    - - 1999
+  id: tomasello1999
+- type: book
+  title: 'Becoming Human: A Theory of Ontogeny'
+  author:
+  - family: Tomasello
+    given: Michael
+  publisher: Harvard University Press
+  publisher-place: Cambridge, MA
+  DOI: 10.4159/9780674988651
+  issued:
+    date-parts:
+    - - 2019
+  id: tomasello2019
+- id: tomasello2005
+  type: article-journal
+  title: 'Understanding and sharing intentions: The origins of cultural cognition'
+  author:
+  - given: Michael
+    family: Tomasello
+  - given: Malinda
+    family: Carpenter
+  - given: Josep
+    family: Call
+  - given: Tanya
+    family: Behne
+  - given: Henrike
+    family: Moll
+  container-title: Behavioral and Brain Sciences
+  volume: '28'
+  issue: '5'
+  page: 675-691
+  DOI: 10.1017/s0140525x05000129
+  issued:
+    date-parts:
+    - - 2005
+- id: tomasello1993
+  type: article-journal
+  title: Cultural learning
+  author:
+  - given: Michael
+    family: Tomasello
+  - given: Ann Cale
+    family: Kruger
+  - given: Hilary Horn
+    family: Ratner
+  container-title: Behavioral and Brain Sciences
+  volume: '16'
+  issue: '3'
+  page: 495-511
+  DOI: 10.1017/s0140525x0003123x
+  issued:
+    date-parts:
+    - - 1993
+- id: trevarthen2001
+  type: article-journal
+  title: 'Infant Intersubjectivity: Research, Theory, and Clinical Applications'
+  author:
+  - given: Colwyn
+    family: Trevarthen
+  - given: Kenneth J.
+    family: Aitken
+  container-title: Journal of Child Psychology and Psychiatry
+  volume: '42'
+  issue: '1'
+  page: 3-48
+  DOI: 10.1111/1469-7610.00701
+  issued:
+    date-parts:
+    - - 2001
+- id: vanderwert2010
+  type: article-journal
+  title: Timing of Intervention Affects Brain Electrical Activity in Children Exposed to Severe Psychosocial
+    Neglect
+  author:
+  - given: Ross E.
+    family: Vanderwert
+  - given: Peter J.
+    family: Marshall
+  - given: Charles A.
+    family: Nelson
+  - given: Charles H.
+    family: Zeanah
+  - given: Nathan A.
+    family: Fox
+  editor:
+  - given: Pier Francesco
+    family: Ferrari
+  container-title: PLoS ONE
+  volume: '5'
+  issue: '7'
+  page: e11415
+  DOI: 10.1371/journal.pone.0011415
+  issued:
+    date-parts:
+    - - 2010
+- id: vouloumanos2007
+  type: article-journal
+  title: 'Listening to language at birth: evidence for a bias for speech in neonates'
+  author:
+  - given: Athena
+    family: Vouloumanos
+  - given: Janet F.
+    family: Werker
+  container-title: Developmental Science
+  volume: '10'
+  issue: '2'
+  page: 159-164
+  DOI: 10.1111/j.1467-7687.2007.00549.x
+  issued:
+    date-parts:
+    - - 2007
+- type: book
+  title: 'Mind in Society: The Development of Higher Psychological Processes'
+  author:
+  - family: Vygotsky
+    given: Lev S.
+  editor:
+  - family: Cole
+    given: Michael
+  - family: John-Steiner
+    given: Vera
+  - family: Scribner
+    given: Sylvia
+  - family: Souberman
+    given: Ellen
+  publisher: Harvard University Press
+  publisher-place: Cambridge, MA
+  issued:
+    date-parts:
+    - - 1978
+  id: vygotsky1978
+- type: chapter
+  title: Thinking and Speech
+  author:
+  - family: Vygotsky
+    given: Lev S.
+  translator:
+  - family: Minick
+    given: Norris
+  editor:
+  - family: Rieber
+    given: Robert W.
+  - family: Carton
+    given: Aaron S.
+  container-title: 'The Collected Works of L. S. Vygotsky, Vol. 1: Problems of General Psychology'
+  publisher: Plenum Press
+  publisher-place: New York
+  page: 39-285
+  original-date:
+    date-parts:
+    - - 1934
+  issued:
+    date-parts:
+    - - 1987
+  id: vygotsky1987
+- id: wellman2001
+  type: article-journal
+  title: 'Meta-Analysis of Theory-of-Mind Development: The Truth about False Belief'
+  author:
+  - given: Henry M.
+    family: Wellman
+  - given: David
+    family: Cross
+  - given: Julanne
+    family: Watson
+  container-title: Child Development
+  volume: '72'
+  issue: '3'
+  page: 655-684
+  DOI: 10.1111/1467-8624.00304
+  issued:
+    date-parts:
+    - - 2001
+- id: winsler2009
+  type: book
+  title: Private Speech, Executive Functioning, and the Development of Verbal Self-Regulation
+  editor:
+  - given: Adam
+    family: Winsler
+  - given: Charles
+    family: Fernyhough
+  - given: Ignacio
+    family: Montero
+  publisher: Cambridge University Press
+  DOI: 10.1017/cbo9780511581533
+  issued:
+    date-parts:
+    - - 2009
+- id: wood1976
+  type: article-journal
+  title: The Role of Tutoring in Problem Solving
+  author:
+  - given: David
+    family: Wood
+  - given: Jerome S.
+    family: Bruner
+  - given: Gail
+    family: Ross
+  container-title: Journal of Child Psychology and Psychiatry
+  volume: '17'
+  issue: '2'
+  page: 89-100
+  DOI: 10.1111/j.1469-7610.1976.tb00381.x
+  issued:
+    date-parts:
+    - - 1976

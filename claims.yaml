@@ -1,0 +1,252 @@
+schema: 1
+coverage: reviewed
+reviewed_manuscript_sha256: e1d44397c84cec61de8590c300b8deed76f8bdda74b8cb55ec822947e52be406
+claims:
+- id: newborn-face-tracking
+  kind: source
+  evidence:
+    citation_id: johnson1991
+    locator: Abstract; Experiments 1-2
+    verified: true
+    verification_note: DOI 10.1016/0010-0277(91)90045-6; PubMed abstract (PMID 1786670) reports preferential
+      tracking of schematic face stimuli by newborns in the first hour of life.
+  passage: Newborns preferentially track face-like configurations [@johnson1991], prefer infant-directed
+    speech [@cooper1990], prefer speech to closely matched non-speech [@vouloumanos2007], discriminate
+    their native language by its rhythm within days of birth [@mehler1988], and orient to biological motion
+    [@simion2008].
+- id: newborn-speech-bias
+  kind: source
+  evidence:
+    citation_id: vouloumanos2007
+    locator: Abstract
+    verified: true
+    verification_note: 'DOI 10.1111/j.1467-7687.2007.00549.x; Crossref abstract: neonates adjusted high-amplitude
+      sucking to listen preferentially to speech over complex non-speech analogues controlled for spectral
+      and temporal parameters.'
+  passage: Newborns preferentially track face-like configurations [@johnson1991], prefer infant-directed
+    speech [@cooper1990], prefer speech to closely matched non-speech [@vouloumanos2007], discriminate
+    their native language by its rhythm within days of birth [@mehler1988], and orient to biological motion
+    [@simion2008].
+- id: newborn-biological-motion
+  kind: source
+  evidence:
+    citation_id: simion2008
+    locator: Abstract
+    verified: true
+    verification_note: 'DOI 10.1073/pnas.0707021105; Crossref abstract: 2-day-old newborns preferred biological
+      over nonbiological point-light motion.'
+  passage: Newborns preferentially track face-like configurations [@johnson1991], prefer infant-directed
+    speech [@cooper1990], prefer speech to closely matched non-speech [@vouloumanos2007], discriminate
+    their native language by its rhythm within days of birth [@mehler1988], and orient to biological motion
+    [@simion2008].
+- id: saffran-two-minutes
+  kind: source
+  evidence:
+    citation_id: saffran1996
+    locator: Abstract
+    verified: true
+    verification_note: 'DOI 10.1126/science.274.5294.1926; Crossref abstract: 8-month-old infants segmented
+      words from fluent speech on the basis of statistical relationships between neighbouring sounds after
+      only 2 minutes of exposure.'
+  passage: Eight-month-olds extract regularities from the speech stream, tracking transitional probabilities
+    between syllables well enough to segment a continuous artificial language into word-like units after
+    about two minutes of exposure [@saffran1996].
+- id: oostenbroek-null
+  kind: source
+  evidence:
+    citation_id: oostenbroek2016
+    locator: Abstract
+    verified: true
+    verification_note: 'DOI 10.1016/j.cub.2016.03.047; PubMed abstract (PMID 27161497): longitudinal study
+      of 106 infants scored at 1, 3, 6 and 9 weeks found no imitation of the models.'
+  passage: 'Neonatal imitation, long treated as evidence of an innate matching system, is contested: a
+    large longitudinal study failed to find reliable imitation of modeled gestures across the first nine
+    weeks [@oostenbroek2016], a null result that has itself been disputed [@meltzoff2018], and a meta-analysis
+    of 336 effect sizes recovered a positive pooled estimate alongside substantial unexplained heterogeneity
+    [@davis2021].'
+- id: davis-meta
+  kind: source
+  evidence:
+    citation_id: davis2021
+    locator: Abstract
+    verified: true
+    verification_note: 'DOI 10.1177/1745691620959834; Crossref abstract: multilevel meta-analysis of 336
+      effect sizes found a significant pooled effect (d = 0.68) with substantial heterogeneity not explained
+      by 13 methodological moderators.'
+  passage: 'Neonatal imitation, long treated as evidence of an innate matching system, is contested: a
+    large longitudinal study failed to find reliable imitation of modeled gestures across the first nine
+    weeks [@oostenbroek2016], a null result that has itself been disputed [@meltzoff2018], and a meta-analysis
+    of 336 effect sizes recovered a positive pooled estimate alongside substantial unexplained heterogeneity
+    [@davis2021].'
+- id: carpenter-9-15
+  kind: source
+  evidence:
+    citation_id: carpenter1998
+    locator: Title and monograph scope
+    verified: true
+    verification_note: DOI 10.2307/1166214; the monograph title (Social Cognition, Joint Attention, and
+      Communicative Competence from 9 to 15 Months of Age) states the age range and the joint-attention/language
+      relation studied.
+  passage: Carpenter, Nagell, and Tomasello documented the emergence of joint-attention skills between
+    9 and 15 months of age and their close relation to early language, although joint attention is a platform
+    for language and not by itself a sufficient cause [@carpenter1998].
+- id: kuhl-live
+  kind: source
+  evidence:
+    citation_id: kuhl2003
+    locator: Abstract
+    verified: true
+    verification_note: 'DOI 10.1073/pnas.1532872100; Crossref abstract: 9-month-olds exposed to live Mandarin
+      speakers showed phonetic learning, while audiovisual or audio-only recordings of the same material
+      had no effect.'
+  passage: Infants who received live, interactive exposure to a foreign language showed phonetic learning
+    that audio and video recordings of matched content failed to produce, which indicates that contingent
+    social interaction drives early language learning beyond what acoustic exposure alone provides [@kuhl2003].
+- id: liszkowski-declarative
+  kind: source
+  evidence:
+    citation_id: liszkowski2004
+    locator: Abstract
+    verified: true
+    verification_note: 'DOI 10.1111/j.1467-7687.2004.00349.x; Crossref abstract: 12-month-olds point declaratively
+      to share attention and interest.'
+  passage: It also begins to point declaratively, directing an adult's attention to an object for the
+    sake of shared interest, with no request for the object [@liszkowski2004].
+- id: mayberry-late-l1
+  kind: source
+  evidence:
+    citation_id: mayberry2003
+    locator: Abstract
+    verified: true
+    verification_note: 'DOI 10.1016/s0093-934x(03)00137-8; PubMed abstract (PMID 14642540): adults with
+      early language, spoken or signed, reached near-native second-language levels; deaf adults with little
+      or no accessible early language performed poorly.'
+  passage: Mayberry and Lock studied deaf and hearing adults who differed in whether they had accessible
+    language in early childhood, and found that those with early first-language exposure, signed or spoken,
+    later achieved high competence in a second language, while those who lacked accessible language in
+    the first years performed poorly even after extended later exposure [@mayberry2003].
+- id: rakoczy-enforcement
+  kind: source
+  evidence:
+    citation_id: rakoczy2008
+    locator: Abstract
+    verified: true
+    verification_note: 'DOI 10.1037/0012-1649.44.3.875; abstract (OpenAlex): 2- and 3-year-olds protested,
+      criticised or taught when a puppet made a mistake in a conventional game, more in target than control
+      conditions.'
+  passage: By the third year they follow norms and also enforce them on third parties, spontaneously protesting
+    and correcting a puppet's violations of a game's rules when they are not themselves affected, and
+    treating the norm as binding on anyone in the relevant situation [@rakoczy2008].
+- id: lyons-overimitation
+  kind: source
+  evidence:
+    citation_id: lyons2007
+    locator: Abstract
+    verified: true
+    verification_note: 'DOI 10.1073/pnas.0704452104; Crossref abstract: children persistently reproduce
+      an adult''s unnecessary actions, including irrelevant actions that chimpanzees ignore.'
+  passage: Children faithfully reproduce even causally unnecessary steps of a demonstrated procedure,
+    an overimitation that treats the modeled sequence as the correct way to perform the task, and this
+    high-fidelity copying separates human children from other apes [@lyons2007; @horner2005].
+- id: bos-memory-ef
+  kind: source
+  evidence:
+    citation_id: bos2009
+    locator: Abstract
+    verified: true
+    verification_note: 'DOI 10.3389/neuro.08.016.2009; abstract (OpenAlex): BEIP children with early institutional
+      care performed worse on visual memory and executive functioning at age 8.'
+  passage: Follow-ups in the same cohort traced the deficits into memory and executive function [@bos2009]
+    and into brain electrical activity, which partially normalized with earlier placement [@vanderwert2010].
+- id: vanderwert-eeg
+  kind: source
+  evidence:
+    citation_id: vanderwert2010
+    locator: Abstract
+    verified: true
+    verification_note: 'DOI 10.1371/journal.pone.0011415; abstract (OpenAlex): foster-care placement increased
+      high-frequency EEG alpha power at age 8, most for children placed before 24 months.'
+  passage: Follow-ups in the same cohort traced the deficits into memory and executive function [@bos2009]
+    and into brain electrical activity, which partially normalized with earlier placement [@vanderwert2010].
+- id: era-six-months
+  kind: source
+  evidence:
+    citation_id: sonugabarke2017
+    locator: Abstract
+    verified: true
+    verification_note: 'DOI 10.1016/S0140-6736(17)30045-4; abstract (OpenAlex): adoptees with more than
+      6 months of institutional deprivation had persistently higher neurodevelopmental symptom rates into
+      young adulthood (22-25 years); those with less than 6 months resembled UK controls.'
+  passage: The independent English and Romanian Adoptees study found that deprivation lasting beyond the
+    first six months left neurodevelopmental and mental-health effects detectable into young adulthood
+    [@sonugabarke2017].
+- id: ritchie-schooling
+  kind: source
+  evidence:
+    citation_id: ritchie2018
+    locator: Abstract
+    verified: true
+    verification_note: 'DOI 10.1177/0956797618774253; Crossref abstract: three quasi-experimental designs,
+      142 effect sizes from 42 data sets with over 600,000 participants, approximately 1 to 5 IQ points
+      per additional year of education, effects persisting across the life span.'
+  passage: 'Education has a measurable cognitive effect of the kind the architecture predicts: a meta-analysis
+    of 142 effect sizes from 42 datasets and over 600,000 participants, drawing on three quasi-experimental
+    designs, estimated that each additional year of schooling raises measured intelligence by roughly
+    one to five IQ points, an effect that showed little sign of fading with age [@ritchie2018].'
+- id: three-senses
+  kind: definition
+  rationale: Separates moral, legal and developmental-cognitive personhood; every later claim concerns
+    the third sense only.
+  passage: The word "person" has at least three meanings that must be kept apart.
+- id: stack
+  kind: definition
+  rationale: Introduces the layered architecture (tabulated in Section 2) that the rest of the paper stages.
+  passage: Within the cognitive sense, personhood is a stack of layers.
+- id: minimal-narrative
+  kind: definition
+  rationale: Adopts the minimal/narrative self distinction from the cited source to fix the two lowest
+    transitions.
+  passage: Gallagher distinguishes a *minimal self*, the immediate embodied for-me-ness of experience,
+    from a *narrative self*, the temporally extended story of who one is [@gallagher2000].
+- id: moral-standing
+  kind: normative
+  rationale: Normative commitment that the developmental account does not bear on moral worth.
+  passage: The newborn lacks adult-style cognitive personhood and has undiminished moral standing.
+- id: runtime-heuristic
+  kind: assumption
+  rationale: The external-runtime description is explicitly heuristic; the substantive claim is the transfer
+    of functions from a multi-person system to one agent.
+  passage: The runtime description is a heuristic with a clear limit.
+- id: predictive-processing-frame
+  kind: assumption
+  rationale: The account adopts predictive processing as an organising frame, not as an established mechanism;
+    nothing downstream depends on its specific formalism.
+  passage: Predictive processing offers a unifying frame for these abilities.
+- id: synthetic-contribution
+  kind: interpretation
+  rationale: 'States the scope of the contribution: integration and staging of known mechanisms, no new
+    mechanism.'
+  passage: 'The contribution is therefore synthetic: an integration of known mechanisms, with no claim
+    to a new one.'
+- id: deprivation-pattern
+  kind: interpretation
+  rationale: Inference from the three evidence lines of Section 12; the pattern is predicted by a layered
+    experience-expectant system, though the evidence is confounded as the section states.
+  passage: This pattern of sparing and loss is the strongest support for the architecture, because a layered,
+    experience-expectant bootstrapping system predicts it and neither pure nativism nor pure environmentalism
+    predicts it cleanly.
+- id: mediation-predictions
+  kind: interpretation
+  rationale: Identifies the testable mediation and ordering predictions, distinct from the consistency
+    claims.
+  passage: The architecture entails specific mediation structure, and mediation is harder to retrodict
+    than correlation.
+- id: falsifiability-cost
+  kind: interpretation
+  rationale: States the evidential limit of an integrative synthesis assembled from the evidence it accommodates.
+  passage: This carries a real falsifiability cost.
+- id: mauss-parallel
+  kind: interpretation
+  rationale: Analogy between historical and developmental layering of the person concept; offered as a
+    parallel, not a causal claim.
+  passage: The developmental architecture recapitulates that stratification in compressed form.

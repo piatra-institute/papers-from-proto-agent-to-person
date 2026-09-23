@@ -1,0 +1,701 @@
+[
+ {
+  "id": "ainsworth1978",
+  "families": [
+   "Ainsworth",
+   "Blehar",
+   "Waters",
+   "Wall"
+  ],
+  "authors_text": "Ainsworth, M. D. S., Blehar, M. C., Waters, E., & Wall, S.",
+  "year": "1978",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "atzil2018",
+  "families": [
+   "Atzil",
+   "Gao",
+   "Fradkin",
+   "Barrett"
+  ],
+  "authors_text": "Atzil, S., Gao, W., Fradkin, I., & Barrett, L. F.",
+  "year": "2018",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "bos2009",
+  "families": [
+   "Bos",
+   "Fox",
+   "Zeanah",
+   "Nelson"
+  ],
+  "authors_text": "Bos, K. J., Fox, N., Zeanah, C. H., & Nelson, C. A.",
+  "year": "2009",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "bowlby1969",
+  "families": [
+   "Bowlby"
+  ],
+  "authors_text": "Bowlby, J.",
+  "year": "1969",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "boyd1985",
+  "families": [
+   "Boyd",
+   "Richerson"
+  ],
+  "authors_text": "Boyd, R., & Richerson, P. J.",
+  "year": "1985",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "candland1993",
+  "families": [
+   "Candland"
+  ],
+  "authors_text": "Candland, D. K.",
+  "year": "1993",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "carpenter1998",
+  "families": [
+   "Carpenter",
+   "Nagell",
+   "Tomasello"
+  ],
+  "authors_text": "Carpenter, M., Nagell, K., & Tomasello, M.",
+  "year": "1998",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "cittern2018",
+  "families": [
+   "Cittern",
+   "Nolte",
+   "Friston",
+   "Edalat"
+  ],
+  "authors_text": "Cittern, D., Nolte, T., Friston, K., & Edalat, A.",
+  "year": "2018",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "clark2013",
+  "families": [
+   "Clark"
+  ],
+  "authors_text": "Clark, A.",
+  "year": "2013",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "cooper1990",
+  "families": [
+   "Cooper",
+   "Aslin"
+  ],
+  "authors_text": "Cooper, R. P., & Aslin, R. N.",
+  "year": "1990",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "csibra2009",
+  "families": [
+   "Csibra",
+   "Gergely"
+  ],
+  "authors_text": "Csibra, G., & Gergely, G.",
+  "year": "2009",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "curtiss1977",
+  "families": [
+   "Curtiss"
+  ],
+  "authors_text": "Curtiss, S.",
+  "year": "1977",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "davis2021",
+  "families": [
+   "Davis",
+   "Redshaw",
+   "Suddendorf",
+   "Nielsen",
+   "Kennedy-Costantini",
+   "Oostenbroek",
+   "Slaughter"
+  ],
+  "authors_text": "Davis, J., Redshaw, J., Suddendorf, T., Nielsen, M., Kennedy-Costantini, S., Oostenbroek, J., & Slaughter, V.",
+  "year": "2021",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "wolff1997",
+  "families": [
+   "De Wolff"
+  ],
+  "authors_text": "De Wolff, M. S., & van IJzendoorn, M. H.",
+  "year": "1997",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "fonagy2002",
+  "families": [
+   "Fonagy",
+   "Gergely",
+   "Jurist",
+   "Target"
+  ],
+  "authors_text": "Fonagy, P., Gergely, G., Jurist, E. L., & Target, M.",
+  "year": "2002",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "friston2010",
+  "families": [
+   "Friston"
+  ],
+  "authors_text": "Friston, K.",
+  "year": "2010",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "gallagher2000",
+  "families": [
+   "Gallagher"
+  ],
+  "authors_text": "Gallagher, S.",
+  "year": "2000",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "gergely1996",
+  "families": [
+   "Gergely",
+   "Watson"
+  ],
+  "authors_text": "Gergely, G., & Watson, J. S.",
+  "year": "1996",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "greenough1987",
+  "families": [
+   "Greenough",
+   "Black",
+   "Wallace"
+  ],
+  "authors_text": "Greenough, W. T., Black, J. E., & Wallace, C. S.",
+  "year": "1987",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "griffiths1994",
+  "families": [
+   "Griffiths",
+   "Gray"
+  ],
+  "authors_text": "Griffiths, P. E., & Gray, R. D.",
+  "year": "1994",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "hall2017",
+  "families": [
+   "Hall"
+  ],
+  "authors_text": "Hall, W. C.",
+  "year": "2017",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "henrich2016",
+  "families": [
+   "Henrich"
+  ],
+  "authors_text": "Henrich, J.",
+  "year": "2016",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "horner2005",
+  "families": [
+   "Horner",
+   "Whiten"
+  ],
+  "authors_text": "Horner, V., & Whiten, A.",
+  "year": "2005",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "johnson1991",
+  "families": [
+   "Johnson",
+   "Dziurawiec",
+   "Ellis",
+   "Morton"
+  ],
+  "authors_text": "Johnson, M. H., Dziurawiec, S., Ellis, H., & Morton, J.",
+  "year": "1991",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "karmiloffsmith1992",
+  "families": [
+   "Karmiloff-Smith"
+  ],
+  "authors_text": "Karmiloff-Smith, A.",
+  "year": "1992",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "koster2020",
+  "families": [
+   "Köster",
+   "Kayhan",
+   "Langeloh",
+   "Hoehl"
+  ],
+  "authors_text": "Köster, M., Kayhan, E., Langeloh, M., & Hoehl, S.",
+  "year": "2020",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "kuhl2003",
+  "families": [
+   "Kuhl",
+   "Tsao",
+   "Liu"
+  ],
+  "authors_text": "Kuhl, P. K., Tsao, F.-M., & Liu, H.-M.",
+  "year": "2003",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "lewis1979",
+  "families": [
+   "Lewis",
+   "Brooks-Gunn"
+  ],
+  "authors_text": "Lewis, M., & Brooks-Gunn, J.",
+  "year": "1979",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "lewis1989",
+  "families": [
+   "Lewis",
+   "Sullivan",
+   "Stanger",
+   "Weiss"
+  ],
+  "authors_text": "Lewis, M., Sullivan, M. W., Stanger, C., & Weiss, M.",
+  "year": "1989",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "liszkowski2004",
+  "families": [
+   "Liszkowski",
+   "Carpenter",
+   "Henning",
+   "Striano",
+   "Tomasello"
+  ],
+  "authors_text": "Liszkowski, U., Carpenter, M., Henning, A., Striano, T., & Tomasello, M.",
+  "year": "2004",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "lyons2007",
+  "families": [
+   "Lyons",
+   "Young",
+   "Keil"
+  ],
+  "authors_text": "Lyons, D. E., Young, A. G., & Keil, F. C.",
+  "year": "2007",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "mareschal2007",
+  "families": [
+   "Mareschal",
+   "Johnson",
+   "Sirois",
+   "Spratling",
+   "Thomas",
+   "Westermann"
+  ],
+  "authors_text": "Mareschal, D., Johnson, M. H., Sirois, S., Spratling, M. W., Thomas, M. S. C., & Westermann, G.",
+  "year": "2007",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "mauss1985",
+  "families": [
+   "Mauss"
+  ],
+  "authors_text": "Mauss, M.",
+  "year": "1985",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "mayberry2003",
+  "families": [
+   "Mayberry",
+   "Lock"
+  ],
+  "authors_text": "Mayberry, R. I., & Lock, E.",
+  "year": "2003",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "mehler1988",
+  "families": [
+   "Mehler",
+   "Jusczyk",
+   "Lambertz",
+   "Halsted",
+   "Bertoncini",
+   "Amiel-Tison"
+  ],
+  "authors_text": "Mehler, J., Jusczyk, P., Lambertz, G., Halsted, N., Bertoncini, J., & Amiel-Tison, C.",
+  "year": "1988",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "meltzoff2018",
+  "families": [
+   "Meltzoff",
+   "Murray",
+   "Simpson",
+   "Heimann",
+   "Nagy",
+   "Nadel",
+   "Pedersen",
+   "Brooks",
+   "Messinger",
+   "De Pascalis",
+   "Subiaul",
+   "Paukner",
+   "Ferrari"
+  ],
+  "authors_text": "Meltzoff, A. N., Murray, L., Simpson, E., Heimann, M., Nagy, E., Nadel, J., Pedersen, E. J., Brooks, R., Messinger, D. S., De Pascalis, L., Subiaul, F., Paukner, A., & Ferrari, P. F.",
+  "year": "2018",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "nelson2007",
+  "families": [
+   "Nelson",
+   "Zeanah",
+   "Fox",
+   "Marshall",
+   "Smyke",
+   "Guthrie"
+  ],
+  "authors_text": "Nelson, C. A., Zeanah, C. H., Fox, N. A., Marshall, P. J., Smyke, A. T., & Guthrie, D.",
+  "year": "2007",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "nelson1996",
+  "families": [
+   "Nelson"
+  ],
+  "authors_text": "Nelson, K.",
+  "year": "1996",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "nelson2004",
+  "families": [
+   "Nelson",
+   "Fivush"
+  ],
+  "authors_text": "Nelson, K., & Fivush, R.",
+  "year": "2004",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "onishi2005",
+  "families": [
+   "Onishi",
+   "Baillargeon"
+  ],
+  "authors_text": "Onishi, K. H., & Baillargeon, R.",
+  "year": "2005",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "oyama1985",
+  "families": [
+   "Oyama"
+  ],
+  "authors_text": "Oyama, S.",
+  "year": "1985",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "oostenbroek2016",
+  "families": [
+   "Oostenbroek",
+   "Suddendorf",
+   "Nielsen",
+   "Redshaw",
+   "Kennedy-Costantini",
+   "Davis",
+   "Clark",
+   "Slaughter"
+  ],
+  "authors_text": "Oostenbroek, J., Suddendorf, T., Nielsen, M., Redshaw, J., Kennedy-Costantini, S., Davis, J., Clark, S., & Slaughter, V.",
+  "year": "2016",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "rakoczy2008",
+  "families": [
+   "Rakoczy",
+   "Warneken",
+   "Tomasello"
+  ],
+  "authors_text": "Rakoczy, H., Warneken, F., & Tomasello, M.",
+  "year": "2008",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "reese1993",
+  "families": [
+   "Reese",
+   "Haden",
+   "Fivush"
+  ],
+  "authors_text": "Reese, E., Haden, C. A., & Fivush, R.",
+  "year": "1993",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "ritchie2018",
+  "families": [
+   "Ritchie",
+   "Tucker-Drob"
+  ],
+  "authors_text": "Ritchie, S. J., & Tucker-Drob, E. M.",
+  "year": "2018",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "rochat2003",
+  "families": [
+   "Rochat"
+  ],
+  "authors_text": "Rochat, P.",
+  "year": "2003",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "saffran1996",
+  "families": [
+   "Saffran",
+   "Aslin",
+   "Newport"
+  ],
+  "authors_text": "Saffran, J. R., Aslin, R. N., & Newport, E. L.",
+  "year": "1996",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "simion2008",
+  "families": [
+   "Simion",
+   "Regolin",
+   "Bulf"
+  ],
+  "authors_text": "Simion, F., Regolin, L., & Bulf, H.",
+  "year": "2008",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "sonugabarke2017",
+  "families": [
+   "Sonuga-Barke",
+   "Kennedy",
+   "Kumsta",
+   "Knights",
+   "Golm",
+   "Rutter",
+   "Maughan",
+   "Schlotz",
+   "Kreppner"
+  ],
+  "authors_text": "Sonuga-Barke, E. J. S., Kennedy, M., Kumsta, R., Knights, N., Golm, D., Rutter, M., Maughan, B., Schlotz, W., & Kreppner, J.",
+  "year": "2017",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "taipale2016",
+  "families": [
+   "Taipale"
+  ],
+  "authors_text": "Taipale, J.",
+  "year": "2016",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "tennie2009",
+  "families": [
+   "Tennie",
+   "Call",
+   "Tomasello"
+  ],
+  "authors_text": "Tennie, C., Call, J., & Tomasello, M.",
+  "year": "2009",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "thompson2006",
+  "families": [
+   "Thompson"
+  ],
+  "authors_text": "Thompson, R. A.",
+  "year": "2006",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "tomasello1999",
+  "families": [
+   "Tomasello"
+  ],
+  "authors_text": "Tomasello, M.",
+  "year": "1999",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "tomasello2019",
+  "families": [
+   "Tomasello"
+  ],
+  "authors_text": "Tomasello, M.",
+  "year": "2019",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "tomasello2005",
+  "families": [
+   "Tomasello",
+   "Carpenter",
+   "Call",
+   "Behne",
+   "Moll"
+  ],
+  "authors_text": "Tomasello, M., Carpenter, M., Call, J., Behne, T., & Moll, H.",
+  "year": "2005",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "tomasello1993",
+  "families": [
+   "Tomasello",
+   "Kruger",
+   "Ratner"
+  ],
+  "authors_text": "Tomasello, M., Kruger, A. C., & Ratner, H. H.",
+  "year": "1993",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "trevarthen2001",
+  "families": [
+   "Trevarthen",
+   "Aitken"
+  ],
+  "authors_text": "Trevarthen, C., & Aitken, K. J.",
+  "year": "2001",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "vanderwert2010",
+  "families": [
+   "Vanderwert",
+   "Marshall",
+   "Nelson",
+   "Zeanah",
+   "Fox"
+  ],
+  "authors_text": "Vanderwert, R. E., Marshall, P. J., Nelson, C. A., Zeanah, C. H., & Fox, N. A.",
+  "year": "2010",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "vouloumanos2007",
+  "families": [
+   "Vouloumanos",
+   "Werker"
+  ],
+  "authors_text": "Vouloumanos, A., & Werker, J. F.",
+  "year": "2007",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "vygotsky1978",
+  "families": [
+   "Vygotsky"
+  ],
+  "authors_text": "Vygotsky, L. S.",
+  "year": "1978",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "vygotsky1987",
+  "families": [
+   "Vygotsky"
+  ],
+  "authors_text": "Vygotsky, L. S.",
+  "year": "1987",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "wellman2001",
+  "families": [
+   "Wellman",
+   "Cross",
+   "Watson"
+  ],
+  "authors_text": "Wellman, H. M., Cross, D., & Watson, J.",
+  "year": "2001",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "winsler2009",
+  "families": [
+   "Winsler",
+   "Fernyhough",
+   "Montero"
+  ],
+  "authors_text": "Winsler, A., Fernyhough, C., & Montero, I. (Eds.).",
+  "year": "2009",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "wood1976",
+  "families": [
+   "Wood",
+   "Bruner",
+   "Ross"
+  ],
+  "authors_text": "Wood, D., Bruner, J. S., & Ross, G.",
+  "year": "1976",
+  "status": "VERIFIED-CROSSREF"
+ }
+]

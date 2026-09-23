@@ -3,6 +3,15 @@
 Dated log of editorial passes and verification runs. Newest first.
 See docs/writing-pipeline.md §7 and docs/refresh-pipeline.md.
 
+## 2026-09-23 — structured-evidence migration
+
+Structured-evidence migration (references and claims).
+- references.yaml: 64 CSL entries. 43 matched through Crossref and checked for year and title; 21 completed by hand (ainsworth1978, bowlby1969, boyd1985, candland1993, curtiss1977, fonagy2002, friston2010, gergely1996, henrich2016, horner2005, karmiloffsmith1992, mauss1985, meltzoff2018, nelson1996, onishi2005, oyama1985, thompson2006, tomasello1999, tomasello2019, vygotsky1978, vygotsky1987), with DOIs confirmed through Crossref or doi.org where they exist and gergely1996 confirmed through PubMed (PMID 9119582). In-text author-year citations converted to Pandoc [@id] syntax (fifteen three-author groups joined with "&" converted by hand); the legacy list replaced by the citeproc-rendered list (Chicago author-date).
+- Crossref metadata corrected by hand: bos2009 (Crossref lists only Bos; authors restored as Bos, Fox, Zeanah and Nelson, as in the legacy entry); carpenter1998 (Crossref adds the commentators Butterworth and Moore as authors; restricted to Carpenter, Nagell and Tomasello; page range i-174); page ranges of cooper1990, greenough1987 and lewis1989; titles of mareschal2007 and wood1976; "van IJzendoorn" particle; initials punctuated. No prose correction was needed.
+- claims.yaml: 27 claims (16 source, 3 definition, 1 normative, 2 assumption, 5 interpretation). Source claims checked against abstracts from Crossref, OpenAlex or PubMed: johnson1991, vouloumanos2007, simion2008, saffran1996, oostenbroek2016, davis2021, carpenter1998 (title), kuhl2003, liszkowski2004, mayberry2003, rakoczy2008, lyons2007, bos2009, vanderwert2010, sonugabarke2017, ritchie2018.
+- Unverified, not bound: the De Wolff and van IJzendoorn figures (r = .22 across 30 studies, N = 1,666; the abstract gives only the 66-study, N = 4,176 total, and the article is closed); the "roughly two years" placement threshold attributed to nelson2007 (the abstract reports the benefit as most marked for the youngest children; the 24-month figure appears in the Vanderwert et al. abstract); the fourth-year consolidation of false-belief performance (wellman2001 abstract states the preschool transition without the age); the descriptions of books and chapters (Tomasello, Nelson, Thompson, Mauss, Vygotsky, Curtiss, Candland), which were not re-read.
+- No simulation; metadata claims_target: claim-ledger.
+
 ## 2026-09-23 — prose revision
 
 Headings: Abstract; 1. Introduction; 2. Conceptual distinctions; 3. The newborn as embodied proto-agent; 4. Co-regulation and attachment; 5. Social address and caregiver functions; 6. Joint attention and shared intentionality; 7. Language and symbolic control; 8. Norm internalization and moral agency; 9. Autobiographical memory and narrative selfhood; 10. Executive function, private speech, and inner speech; 11. Cumulative culture and institutional personhood; 12. Evidence from deprivation; 13. The integrated architecture; 14. Consistency claims, testable predictions, and limits; 15. Conclusion.

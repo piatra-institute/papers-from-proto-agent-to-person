@@ -126,3 +126,7 @@ Wellman, H. M., Cross, D., & Watson, J. (2001). Meta-analysis of theory-of-mind 
 Winsler, A., Fernyhough, C., & Montero, I. (Eds.). (2009). *Private Speech, Executive Functioning, and the Development of Verbal Self-Regulation*. Cambridge University Press. — edited volume (ISBN 9780521866071); supports the private→inner speech trajectory (§10).
 
 Wood, D., Bruner, J. S., & Ross, G. (1976). The role of tutoring in problem solving. *Journal of Child Psychology and Psychiatry*, 17(2), 89-100. — verified via DOI 10.1111/j.1469-7610.1976.tb00381.x; coins "scaffolding" (§10).
+
+## Structured bibliography (2026-09-23)
+
+The inline reference list was migrated to references.yaml (CSL) and in-text citations to Pandoc [@id] syntax. Forty-three entries were matched through Crossref and checked for year and title; the remaining twenty-one were entered by hand from their publication details, with DOIs located and confirmed through Crossref or doi.org where they exist (friston2010, henrich2016, horner2005, karmiloffsmith1992, meltzoff2018, nelson1996, onishi2005, thompson2006, tomasello2019) and gergely1996 confirmed through PubMed (PMID 9119582). Crossref metadata was corrected by hand where it was incomplete: bos2009 (Crossref lists only the first author; the article is by Bos, Fox, Zeanah and Nelson), the page ranges of carpenter1998, cooper1990, greenough1987 and lewis1989, the titles of mareschal2007 and wood1976, and the particle in van IJzendoorn. Source claims in claims.yaml were checked against abstracts retrieved from Crossref, OpenAlex or PubMed.
