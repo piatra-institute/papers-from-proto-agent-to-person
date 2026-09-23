@@ -3,6 +3,15 @@
 Dated log of editorial passes and verification runs. Newest first.
 See docs/writing-pipeline.md §7 and docs/refresh-pipeline.md.
 
+## 2026-09-23 — prose revision
+
+Headings: Abstract; 1. Introduction; 2. Conceptual distinctions; 3. The newborn as embodied proto-agent; 4. Co-regulation and attachment; 5. Social address and caregiver functions; 6. Joint attention and shared intentionality; 7. Language and symbolic control; 8. Norm internalization and moral agency; 9. Autobiographical memory and narrative selfhood; 10. Executive function, private speech, and inner speech; 11. Cumulative culture and institutional personhood; 12. Evidence from deprivation; 13. The integrated architecture; 14. Consistency claims, testable predictions, and limits; 15. Conclusion.
+Tic counts before -> after: "rather than" 33 -> 0; "not X but Y" 8 -> 0; "this paper/the paper" 10 -> 0; negate-pivot 1 -> 0; merely/simply 6 -> 0; "worth" 5 -> 2 (both "moral/intrinsic worth", substantive); "what follows" 2 -> 0.
+Abstract shortened from ~450 to 259 words; retained question, staging, evidence base, falsifiability caveat, and moral-status separation.
+Correction: Carpenter, Nagell & Tomasello (1998) was described as documenting joint attention "across the first eighteen months"; the monograph (title: "from 9 to 15 months of age") covers 9 to 15 months. Text now reads "between 9 and 15 months of age".
+Grammar fix: section 4 opening "does it for them" (pronoun mismatch with "the infant ... its") -> "does so on its behalf".
+Grid audit: not applicable (no simulation; has_simulation false). All other numbers (r = .22, 30 studies, N = 1,666, 66 studies, 336 effect sizes, 142 effect sizes, 42 datasets, 600,000 participants, one to five IQ points, two years, six months, nine weeks, two minutes, age thirteen) checked against the backup and preserved.
+
 ## 2026-06-13 — voice reform
 
 Editorial pass to remove AI-writing tells per tooling/docs/voice.md.

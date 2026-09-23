@@ -1,8 +1,8 @@
 # From Proto-Agent to Person
 
-**Title**: From Proto-Agent to Person — A Bootstrapping Architecture for the Development of Personhood
-**Date**: June 2026
-**Author**: PIATRA . INSTITUTE
+A Bootstrapping Architecture for the Development of Personhood.
+
+A human newborn has homeostatic regulation, affect, sensorimotor coupling, social-orienting biases, and a capacity for statistical learning, but no language, no explicit norms, and no autobiographical self. By the age of three to five a recognizable individual has formed, and by adulthood the same initial architecture can support a scientist, a citizen, a parent, or a legal subject. We propose a bootstrapping architecture for this divergence. Taking as given the interactionist consensus of neuroconstructivism and developmental systems theory, the account contributes a specific staging: biologically prepared proto-agential systems enter caregiver-mediated loops of affect regulation, joint attention, language, norm enforcement, autobiographical narration, executive scaffolding, and cultural-tool use, and the child internalizes regulatory and symbolic structures that others first run around it. Each acquired layer changes the learning conditions for the next, and control migrates from a multi-person system into a single agent. The synthesis draws on attachment theory, predictive processing, language-acquisition research, Vygotskian internalization, shared intentionality, autobiographical-memory theory, executive-function development, and cultural evolution; it extends the process past childhood into literacy, schooling, law, and science; and it is checked against institutional deprivation and late first-language acquisition, where the upper layers fail and the proto-agent persists. Because an integration of this breadth accommodates most of its evidence by construction, we separate consistency claims from a smaller set of mediation and ordering predictions on which the architecture can be tested. The account is developmental and cognitive: the newborn lacks adult cognitive personhood and has full moral standing. The developmental layering parallels the historical layering of the person concept described in classical anthropology.
 
 ## Contents
 
